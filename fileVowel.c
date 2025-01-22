@@ -9,6 +9,4 @@ void main(){
         count +=1;
     }}
     printf("Count is %d",count);
-
-
 }
