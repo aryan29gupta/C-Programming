@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-
 int lengthfunc(int a) {
     int length = 0;
     while (a != 0) {
